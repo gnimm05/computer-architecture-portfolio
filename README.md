@@ -45,3 +45,9 @@ Below is the collection of completed labs. As the course progresses, this table 
 
 ---
 
+## Contact
+
+If you have any questions, feel free to connect with me!
+
+*   **LinkedIn:** (https://www.linkedin.com/in/gnimm/)
+
